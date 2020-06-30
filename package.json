@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/sesigita/runner/issues"
   },
-  "homepage": "https://github.com/sesigita/runner#readme"
+  "homepage": "https://github.com/sesigita/runner#readme",
+  "dependencies": {
+    "chokidar": "^3.4.0"
+  }
 }
